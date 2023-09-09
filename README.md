@@ -1,2 +1,2 @@
 # phppiggy
- A PHP application for calculating expenses
+ A advanced PHP application for calculating expenses
